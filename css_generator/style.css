@@ -1,0 +1,22 @@
+.image0{
+ width: 120px;
+ height: 120px;
+ padding: 0px;
+ background: url('sprite.png') -0px 0px;
+  
+
+ }.image1{
+ width: 180px;
+ height: 180px;
+ padding: 0px;
+ background: url('sprite.png') -120px 0px;
+  
+
+ }.image2{
+ width: 227px;
+ height: 320px;
+ padding: 0px;
+ background: url('sprite.png') -300px 0px;
+  
+
+ }
